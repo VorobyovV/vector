@@ -1,0 +1,8 @@
+<svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Envelope">
+<path id="Vector" d="M28 7.5L16 18.5L4 7.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M4 7.5H28V24.5C28 24.7652 27.8946 25.0196 27.7071 25.2071C27.5196 25.3946 27.2652 25.5 27 25.5H5C4.73478 25.5 4.48043 25.3946 4.29289 25.2071C4.10536 25.0196 4 24.7652 4 24.5V7.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M13.8182 16.5L4.30835 25.2174" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M27.6919 25.2175L18.1819 16.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
